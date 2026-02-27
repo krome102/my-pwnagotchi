@@ -85,7 +85,7 @@ OK SO
 
 5: Drip it out$$$ (the ui)
 
-"6:" Find a gf/bf that also has one so It has a fuckbuddy and doesnt give me that - ui.faces.lonely = "/custom-faces/LONELY.png" (pmo) /hj (half joke) (maybe ;>)
+"6:" Find someone other than me that actually has one doesnt give me that - ui.faces.lonely = "/custom-faces/LONELY.png" (pmo)
 
 ok so 6: for real
 
