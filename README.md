@@ -92,3 +92,30 @@ ok so 6: for real
 6: Case.
 
 Yeah thats it for now Ill update it eventually. (CHECK REPO FOR PICS)
+
+01/06/2026 (dmy)
+
+pwny works really well! actually captures shit
+but before that, like a few months ago I had to REINSTALL THE WHOLE IMAGE BECAUSE IT GOT BRICKED.
+it started appearing as a com port and i couldnt do anything. i did the most sus stuff to my computer to get it to work.
+nothing worked.
+figured its an imager issue
+likely it was
+went from rpii to rufus again
+worked somehow
+so i think it was the iamger so yeah it works...
+had 2 cases, one had to be held with white isolaton tape/electrical tape yada yada whatever twist your nipples
+the other one was all white again but digimon themed, that one had shit proportions because i diy'd the fuck out of my pi
+OH RIGHt!!!!!!!!!!!!!
+I ALMOST FORGOT
+i got a ups lite, battery fucked up while i was trying to bolt it in
+wasnt charged dw i slightly ripped the outer layer of the battery and i could smell alcohol or something so i shit my pants because i never worked with lipos before didnt know whole much about their chemistry this is getting too long aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ok so the case was disproportionate, trimmed it a little but it was still off.
+decided to edit the file itself in bambu studio, trimming it there
+actually wouldve worked BUT!!!!!
+i only have access to a 3d printer at school but i doubt i still do because lowk school JUST ended.
+12 years just gone like that man...
+ANYWAY!!!
+yeah ill ask the teacher see if he can print me a new case because it looks naked
+cool, dope, all of the above, like the boards exposed but like, it just feels naked.
+yeah thats all for now!!!
