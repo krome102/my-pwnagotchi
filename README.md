@@ -41,8 +41,7 @@ Timeskip, today 10/16/2025 I fuharoundwiddittttt
 
 I got a new face for it (the e-girl one because its punky and it reminds me of female v from cyberpunk 2077 (game changed my life)) anyway
 
-I threw some plugins on it like a capitalist fuck disrespectfully throwing 0.05 cents at a homeless man
-and BOOM!
+I threw some plugins on it like a silicon-valley ceo disrespectfully yeeting 0.05 cents at a homeless man and then...
 
 .
 
@@ -54,12 +53,13 @@ i deleted the config file.
 
 while editing it on filezilla.
 
+.
 
 BUT BEFORE THAT-
 
 I was literally learning that thing lowk
 
-Like duh ive used linux before (kali) but like
+Like duh ive used linux before (kali/parrot) but like
 
 I felt lost fr...
 
@@ -69,7 +69,7 @@ I got it to work again, and now Im js upgrading it fr
 
 Current plans for it:
 
-Take over the w-
+Take over the worl-
 
 uhh
 
@@ -127,7 +127,7 @@ wasnt charged dw i slightly ripped the outer layer of the battery and i could sm
 
 ok so the case was disproportionate, trimmed it a little but it was still off.
 
-decided to edit the file itself in bambu studio, trimming it there
+decided to edit the file itself in bambu studio, trimming it here and there
 
 actually wouldve worked BUT!!!!!
 
