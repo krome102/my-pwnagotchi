@@ -142,3 +142,17 @@ yeah ill ask the teacher see if he can print me a new case because it looks nake
 cool, dope, all of the above, like the boards exposed but like, it just feels naked.
 
 yeah thats all for now!!!
+
+20/9/2026 (dmy)
+
+ok so i got accepted in uni, hell i placed 35/400 lmfao gg ez no re get rekt
+
+anyway i set up my pwndroid, wasted an entire day on it and eventually got it to work i wont document the entire thing im too lazy even after this whole thing i was lowkey not THAT close but still close to refunding the app but I eventually got it because never back down never what?
+
+never give up
+
+so i didnt.
+im just gonna say it was a lot about figuring different ips out and why my shit timed out on my phone.
+apparently my mask was /32 when it's supposed to be /24 (same as my pwny). that was the root cause of my pwnagotchi not connecting with bt-tethering on. if i had 10 bucks for every time i re-tethered my phone and pwnagotchi i'd have a brand new airsoft aeg swear trust
+
+thats it for now.
