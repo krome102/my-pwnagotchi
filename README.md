@@ -156,3 +156,13 @@ im just gonna say it was a lot about figuring different ips out and why my shit 
 apparently my mask was /32 when it's supposed to be /24 (same as my pwny). that was the root cause of my pwnagotchi not connecting with bt-tethering on. if i had 10 bucks for every time i re-tethered my phone and pwnagotchi i'd have a brand new airsoft aeg swear trust
 
 thats it for now.
+
+17/10/2026 (D/M/Y)
+
+it fucking broke.
+the SD CARD FUCKING BROKE.
+i had a spare, but before it broke it got corrupted.
+this is some next level esotheric shit wallahi i swear but like
+i managed to fix the battery issue
+resoldered it and it'll live once again!
+ill get to configing it.
